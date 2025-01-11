@@ -12,7 +12,7 @@ The project is implemented using Python, with core dependencies being:
 
 - 🐍 **NumPy**
 - 🐼 **Pandas**
-- 📚 **Scikit-Learn**
+- 📊 **Pyplot**
 - 🧮 **SciPy.stats**
 
 While leveraging these powerful libraries for convenience, the main objective is to build a deeper understanding of the underlying methodologies by minimizing reliance on pre-built tools whenever possible.
