@@ -34,19 +34,15 @@ The accompanying code emphasizes practical learning and a deep understanding of 
     - Extreme Value Theory Application
     - Liquidation Strategies
     - Multiresolution Analysis
-4. 🛠 **Code Structure**
-5. 🚀 **Getting Started**
 6. 🔚 **Conclusion**
 7. 📚 **References**
 
 ---
 
 ## 🔎 Introduction
-Market risk refers to the potential for financial loss due to changes in market conditions, such as:
+Market risk refers to the potential for financial loss here the main point is :
 
-- 📈 **Interest rates**
 - 💱 **Exchange rates**
-- 💰 **Commodity prices**
 - 📊 **Equity values**
 
 This form of risk plays a significant role in financial institutions and investors' decision-making processes and portfolio management, influencing both their stability and profitability.
@@ -76,40 +72,6 @@ This section focuses on analyzing financial data using **wavelet transforms** an
 
 ---
 
-## 🛠 Code Structure
-The repository's main code structure includes:
-
-- **📂 Data Preprocessing**: Scripts to clean and prepare market data for analysis.
-- **📊 Risk Metrics**: Functions and methods to calculate VaR, EVT, and other related metrics.
-- **📈 Visualization**: Code for plotting risk measures and financial data to help with interpretation.
-- **🧩 Analysis**: Final scripts integrating all methodologies for market risk evaluation.
-
----
-
-## 🚀 Getting Started
-To run the code:
-
-### 1. Clone the repository:
-```bash
-# Clone the project
-$ git clone https://github.com/your-username/market-risk-project.git
-```
-
-### 2. Install the required dependencies:
-```bash
-# Install dependencies
-$ pip install -r requirements.txt
-```
-
-### 3. Run analysis scripts:
-Execute individual scripts for specific methods, such as:
-
-- `value_at_risk.py` 📉
-- `extreme_value_theory.py` 🌪
-- `liquidation_strategies.py` 💼
-- `multiresolution_analysis.py` 🔍
-
----
 
 ## 🔚 Conclusion
 This project offers an in-depth analysis of market risk and employs various mathematical and computational techniques to understand potential financial losses under different market conditions. The code, techniques, and observations presented are valuable for those involved in **portfolio management** and **financial risk analysis**.
@@ -118,10 +80,6 @@ This project offers an in-depth analysis of market risk and employs various math
 
 ## 📚 References
 ### Market Risk Management:
-- _Title of the reference_
-
-### Extreme Value Theory for Finance:
-- _Title of the reference_
-
-### Multiresolution Analysis in Financial Data:
-- _Title of the reference_
+- Matthieu GARCIN _ Course Market Risk _ 2024-2025
+- Alexandre B. TSYBAKOV _ Introduction to Nonparametric Estimation _ 2009
+- Robert ALMGREN and Neil CHRISS _ Optimal Execution of Portfolio Transactions _ 2000
